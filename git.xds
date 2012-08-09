@@ -1,0 +1,46 @@
+{
+    "name": "git",
+    "settings": {
+        "urlPrefix": "",
+        "spacesToIndent": 4,
+        "exportPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false
+    },
+    "xdsVersion": "2.1.0",
+    "xdsBuild": 613,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000497,
+    "framework": "touch20",
+    "topInstanceFileMap": {
+        "70103859-81c8-4285-9895-593f58769d0d": {
+            "paths": [
+                "metadata/view/MyContainer",
+                "app/view/override/MyContainer.js",
+                "app/view/MyContainer.js"
+            ],
+            "className": "MyContainer"
+        },
+        "ff455e3c-eaa9-4fa2-9c24-fa4680047f08": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "70103859-81c8-4285-9895-593f58769d0d"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "ff455e3c-eaa9-4fa2-9c24-fa4680047f08"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

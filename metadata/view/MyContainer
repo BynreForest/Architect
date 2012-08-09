@@ -1,0 +1,30 @@
+{
+    "type": "container",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyContainer",
+        "designer|initialView": true
+    },
+    "id": "ExtBox1-ext-gen1859",
+    "designerId": "70103859-81c8-4285-9895-593f58769d0d",
+    "cn": [
+        {
+            "type": "titlebar",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyTitleBar",
+                "docked": "top",
+                "title": "Git"
+            },
+            "designerId": "518b68f2-1afc-4f5c-abd2-a37fc7299b58"
+        }
+    ]
+}
