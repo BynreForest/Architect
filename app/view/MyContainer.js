@@ -22,6 +22,10 @@ Ext.define('MyApp.view.MyContainer', {
                 xtype: 'titlebar',
                 docked: 'top',
                 title: 'Git'
+            },
+            {
+                xtype: 'label',
+                html: 'Lets switch computers?'
             }
         ]
     }

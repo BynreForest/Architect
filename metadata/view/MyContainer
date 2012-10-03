@@ -25,6 +25,19 @@
                 "title": "Git"
             },
             "designerId": "518b68f2-1afc-4f5c-abd2-a37fc7299b58"
+        },
+        {
+            "type": "label",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyLabel",
+                "html": "Lets switch computers?"
+            },
+            "designerId": "d5ab2520-03b4-495a-bcfc-5ef5c162f865"
         }
     ]
 }
