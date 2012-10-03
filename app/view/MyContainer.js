@@ -25,7 +25,7 @@ Ext.define('MyApp.view.MyContainer', {
             },
             {
                 xtype: 'label',
-                html: 'Lets switch computers?'
+                html: 'Sencha?'
             }
         ]
     }

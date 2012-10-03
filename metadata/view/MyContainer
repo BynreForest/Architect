@@ -35,7 +35,7 @@
             "codeClass": null,
             "userConfig": {
                 "designer|userClassName": "MyLabel",
-                "html": "Lets switch computers?"
+                "html": "Sencha?"
             },
             "designerId": "d5ab2520-03b4-495a-bcfc-5ef5c162f865"
         }
